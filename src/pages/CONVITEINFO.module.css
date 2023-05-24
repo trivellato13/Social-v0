@@ -1,0 +1,157 @@
+.miniSocial {
+  position: absolute;
+  height: 5.05%;
+  width: 39.2%;
+  top: 0.99%;
+  left: 30.4%;
+  font-size: var(--headline-700-size);
+  letter-spacing: -0.02em;
+  line-height: 34px;
+  font-weight: 600;
+  text-align: center;
+  display: inline-block;
+}
+.festaDaSocial {
+  margin: 0;
+}
+.festaDaSocialContainer {
+  position: absolute;
+  height: 31.16%;
+  width: 82.93%;
+  top: 50.25%;
+  left: 8.53%;
+  letter-spacing: -0.01em;
+  line-height: 22px;
+  color: var(--primary-neutral-300);
+  display: inline-block;
+}
+.label {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 24px;
+  font-weight: 600;
+}
+.button {
+  flex: 1;
+  border-radius: var(--br-26xl);
+  background-color: var(--primary-brand-500);
+  height: 38px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-8xs) var(--padding-26xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.button1,
+.label1 {
+  cursor: pointer;
+}
+.label1 {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 24px;
+  font-weight: 600;
+}
+.button2,
+.buttonParent,
+.component8 {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.button2 {
+  border-radius: var(--br-26xl);
+  width: 98px;
+  height: 38px;
+  display: none;
+  padding: var(--padding-4xs) var(--padding-base);
+  box-sizing: border-box;
+  color: var(--primary-neutral-500);
+}
+.buttonParent,
+.component8 {
+  display: flex;
+}
+.buttonParent {
+  flex: 1;
+  overflow: hidden;
+}
+.component8 {
+  position: absolute;
+  top: 349px;
+  left: 18px;
+  border-radius: var(--br-21xl);
+  background-color: var(--primary-neutral-700);
+  width: 334px;
+  height: 42px;
+  padding: var(--padding-5xs);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--headline-300-size);
+  color: var(--primary-neutral-100);
+}
+.button3,
+.button4 {
+  position: absolute;
+  top: 735px;
+  left: 196px;
+  cursor: pointer;
+}
+.button4 {
+  top: 736px;
+  left: 3px;
+}
+.conviteInfoChild {
+  position: absolute;
+  height: 28.94%;
+  top: 12.19%;
+  bottom: 58.87%;
+  left: calc(50% - 169.5px);
+  border-radius: var(--br-5xs);
+  max-height: 100%;
+  width: 334px;
+  object-fit: cover;
+}
+.jul01,
+.social {
+  position: absolute;
+}
+.jul01 {
+  top: 8%;
+  left: 4.53%;
+  letter-spacing: -0.01em;
+  line-height: 22px;
+  color: var(--primary-neutral-500);
+}
+.social {
+  height: 3.94%;
+  width: 11.2%;
+  top: 5.05%;
+  left: 14.4%;
+  font-size: var(--headline-300-size);
+  letter-spacing: -0.02em;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+}
+.dropIcon {
+  position: absolute;
+  top: 41px;
+  left: 15px;
+  width: 30px;
+  height: 26px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.conviteInfo {
+  position: relative;
+  background-color: var(--primary-neutral-900);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--body-text-100-size);
+  color: var(--primary-brand-0);
+  font-family: var(--body-text-300);
+}

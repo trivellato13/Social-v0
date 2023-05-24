@@ -1,0 +1,214 @@
+.miniSocial {
+  position: absolute;
+  height: 3.94%;
+  width: 39.2%;
+  top: 3.57%;
+  left: 30.4%;
+  font-size: var(--headline-700-size);
+  letter-spacing: -0.02em;
+  line-height: 34px;
+  font-weight: 600;
+  display: inline-block;
+}
+.festaDaSocial {
+  margin: 0;
+}
+.festaDaSocialContainer {
+  position: absolute;
+  height: 31.16%;
+  width: 82.93%;
+  top: 54.06%;
+  left: 9.6%;
+  letter-spacing: -0.01em;
+  line-height: 22px;
+  color: var(--primary-neutral-300);
+  text-align: left;
+  display: inline-block;
+}
+.conviteOffChild {
+  position: absolute;
+  height: 27.83%;
+  width: 85.6%;
+  top: 15.52%;
+  right: 6.13%;
+  bottom: 56.65%;
+  left: 8.27%;
+  border-radius: var(--br-5xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.jul01,
+.social {
+  position: absolute;
+  text-align: left;
+}
+.jul01 {
+  top: 12.32%;
+  left: 8.8%;
+  letter-spacing: -0.01em;
+  line-height: 22px;
+  color: var(--primary-neutral-500);
+}
+.social {
+  height: 3.94%;
+  width: 11.2%;
+  top: 9.11%;
+  left: 19.2%;
+  font-size: var(--headline-300-size);
+  letter-spacing: -0.02em;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+}
+.conviteOffItem {
+  position: absolute;
+  height: 3.69%;
+  width: 6.93%;
+  top: 8.5%;
+  right: 84.27%;
+  bottom: 87.81%;
+  left: 8.8%;
+  border-radius: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.label {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 24px;
+  font-weight: 600;
+}
+.button,
+.button1 {
+  border-radius: var(--br-26xl);
+  height: 38px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.button {
+  flex: 1;
+  background-color: var(--primary-brand-500);
+  padding: var(--padding-8xs) var(--padding-26xl);
+  color: var(--primary-neutral-100);
+}
+.button1 {
+  background-color: var(--primary-neutral-700);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  padding: var(--padding-4xs) var(--padding-26xl);
+}
+.label2 {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 24px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.button2,
+.buttonParent,
+.component8 {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.button2 {
+  border-radius: var(--br-26xl);
+  width: 98px;
+  height: 38px;
+  display: none;
+  padding: var(--padding-4xs) var(--padding-base);
+  box-sizing: border-box;
+}
+.buttonParent,
+.component8 {
+  display: flex;
+}
+.buttonParent {
+  flex: 1;
+  overflow: hidden;
+}
+.component8 {
+  position: absolute;
+  top: 370px;
+  left: 20px;
+  border-radius: var(--br-21xl);
+  background-color: var(--primary-neutral-700);
+  width: 335px;
+  height: 47px;
+  padding: var(--padding-5xs);
+  box-sizing: border-box;
+  font-size: var(--headline-300-size);
+  color: var(--primary-neutral-500);
+}
+.conviteOffInner {
+  position: absolute;
+  top: 69px;
+  left: 1px;
+  background-color: rgba(10, 12, 44, 0.96);
+  width: 375px;
+  height: 676px;
+  cursor: pointer;
+}
+.quePenaVocContainer {
+  position: absolute;
+  height: 3.94%;
+  width: 71.47%;
+  top: 31.9%;
+  left: 12%;
+  font-size: var(--body-text-300-size);
+  letter-spacing: -0.02em;
+  line-height: 26px;
+  font-weight: 600;
+  display: inline-block;
+}
+.button3 {
+  position: absolute;
+  top: 394px;
+  left: 36px;
+}
+.button4 {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  width: 76.53%;
+  top: calc(50% - 84px);
+  right: 13.87%;
+  left: 9.6%;
+}
+.arrowLeftIcon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.back,
+.conviteOff {
+  background-color: var(--primary-neutral-900);
+}
+.back {
+  position: absolute;
+  top: 25px;
+  left: 20px;
+  border-radius: var(--br-5xs);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.conviteOff {
+  position: relative;
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--body-text-100-size);
+  color: var(--primary-brand-0);
+  font-family: var(--body-text-300);
+}
